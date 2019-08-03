@@ -1,0 +1,10 @@
+/home/panos/Documents/java/thrift/kafka-consumer/src/main/java/pp/model/InfoModel.java
+/home/panos/Documents/java/thrift/kafka-consumer/src/main/java/pp/kafka/MessageDeserializer.java
+/home/panos/Documents/java/thrift/kafka-consumer/src/main/java/pp/cassandra/enums/TablesEnum.java
+/home/panos/Documents/java/thrift/kafka-consumer/src/main/java/pp/cassandra/enums/KeyspacesEnum.java
+/home/panos/Documents/java/thrift/kafka-consumer/src/main/java/pp/cassandra/CassandraConnector.java
+/home/panos/Documents/java/thrift/kafka-consumer/src/main/java/pp/cassandra/repositories/InfoRepository.java
+/home/panos/Documents/java/thrift/kafka-consumer/src/main/java/pp/cassandra/TablesCreator.java
+/home/panos/Documents/java/thrift/kafka-consumer/src/main/java/pp/ConsumerMain.java
+/home/panos/Documents/java/thrift/kafka-consumer/src/main/java/pp/kafka/KafkaConsumerP.java
+/home/panos/Documents/java/thrift/kafka-consumer/src/main/java/pp/cassandra/accessors/InfoAccessor.java
